@@ -1,6 +1,7 @@
 #!/bin/bash
 #echo Script name: $0
 #echo $# arguments
+# Added 08-JAN-2020
 
 # Setup loggining
 export TIMESTAMP=$(date +"%Y-%m-%d-%T")
