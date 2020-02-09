@@ -21,7 +21,7 @@ if [ "$#" -ne 3 ];
         echo "This script requires 3 parameters"
         echo "1. is the RFC number i.e RFC-1234"
         echo "2. is URL for git repo - this ends in .git"
-        echo "3. git reference - either tag or SHA1"
+        echo "3. git reference - SHA1"
 
     exit
 fi
